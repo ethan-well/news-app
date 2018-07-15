@@ -1,7 +1,7 @@
 # Description
  this project is a demo used to learn react
 
- # Run it
+ # Run it in location
   - ```git clone https://github.com/facebook/react.git```
   - ```cd reactLearn```
   - ```npm init```
